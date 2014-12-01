@@ -20,13 +20,13 @@ namespace DecoratedTeacher
 
         public string Name
         {
-            get { return _name; }
+            get { return _teacher.Name; }
             set { throw new NotSupportedException("Teacher object is unmodifiable"); }
         }
 
         public int Salary
         {
-            get { return _salary; }
+            get { return _teacher.Salary; }
             set { throw new NotSupportedException("Teacher object is unmodifiable"); }
         }
 

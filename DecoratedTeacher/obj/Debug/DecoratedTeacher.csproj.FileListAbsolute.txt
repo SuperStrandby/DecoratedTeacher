@@ -1,1 +1,7 @@
 C:\Users\Brian\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\bin\Debug\DecoratedTeacher.exe.config
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\bin\Debug\DecoratedTeacher.exe.config
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\bin\Debug\DecoratedTeacher.exe
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\bin\Debug\DecoratedTeacher.pdb
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\obj\Debug\DecoratedTeacher.csprojResolveAssemblyReference.cache
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\obj\Debug\DecoratedTeacher.exe
+C:\Users\Strandby\Documents\Skole\3. semester\programmering\DecoratedTeacher\DecoratedTeacher\DecoratedTeacher\obj\Debug\DecoratedTeacher.pdb

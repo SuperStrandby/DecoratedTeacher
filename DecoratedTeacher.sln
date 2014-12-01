@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratedTeacher", "DecoratedTeacher\DecoratedTeacher.csproj", "{8849EDEB-24D5-42CB-B680-59D954A39320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratedTeacherTest", "DecoratedTeacherTest\DecoratedTeacherTest.csproj", "{4EEEF8C3-5494-43F8-92D7-1AF7AD04A191}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8849EDEB-24D5-42CB-B680-59D954A39320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8849EDEB-24D5-42CB-B680-59D954A39320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8849EDEB-24D5-42CB-B680-59D954A39320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEEF8C3-5494-43F8-92D7-1AF7AD04A191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEEF8C3-5494-43F8-92D7-1AF7AD04A191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEEF8C3-5494-43F8-92D7-1AF7AD04A191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEEF8C3-5494-43F8-92D7-1AF7AD04A191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

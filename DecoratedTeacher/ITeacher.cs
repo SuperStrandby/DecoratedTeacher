@@ -1,8 +1,10 @@
-﻿namespace DecoratedTeacher
+﻿using System;
+
+namespace DecoratedTeacher
 {
     public interface ITeacher
     {
-        string Name { get; set; }
+        String Name { get; set; }
         int Salary { get; set; }
         string ToString();
     }
